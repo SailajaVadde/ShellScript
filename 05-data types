@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Additon of two numbers
+NO1=$1
+NO2=$2 # we are giving variables from outside that's y we use $1 n $2 here.
+SUM=$(($NO1+$NO2))
+echo "Total of $NO1 and $NO2 is: $SUM"

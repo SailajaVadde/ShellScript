@@ -10,4 +10,5 @@ echo "Hostname: $HOSTNAME"
 echo "process id of current shell script: $$"
 echo "To know the previous command: $?"
 sleep 60
+echo " backgroun comment: $!"
 

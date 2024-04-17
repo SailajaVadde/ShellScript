@@ -36,3 +36,5 @@ else
 
 
     echo "is script proceeding?" 
+
+    echo "best place to visits"

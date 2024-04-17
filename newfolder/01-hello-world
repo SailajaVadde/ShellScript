@@ -6,4 +6,5 @@ echo "I created one more file in git today"
 echo "last night i learnt about variables"
 echo "I am adding one more file"
 echo "before add file to temp area make sure that where u are located or else change directory to particular location"
-echo "Thank you"
+echo "Thank you"pwd
+
